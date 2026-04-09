@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hello! I'm Davi Nunes da Encarnação<br>🌍 From Rio de Janeiro, Brazil<br>🎓 Currently a third-period student in Systems Analysis and Development ( Universidade Estácio de Sá)<br>✨ Creating bugs since 2023<br><br>I'm a beginner developer passionate about learning and growing in tech. Right now, I'm focused on improving my skills in Java and expanding my knowledge in areas like cybersecurity and project management.</p>
+<p align="left">👋 Hello! I'm Davi Nunes da Encarnação<br>🌍 From Rio de Janeiro, Brazil<br>🎓 Currently a student in Systems Analysis and Development ( Universidade Estácio de Sá)<br>✨ Creating bugs since 2023<br><br>I'm a beginner developer passionate about learning and growing in tech. Right now, I'm focused on improving my skills in Java and expanding my knowledge in areas like cybersecurity and project management.</p>
 
 ###
 
