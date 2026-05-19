@@ -10,8 +10,7 @@
 
 ###
 
-<p align="left">📚 Currently Learning: Python, Java, Data Structures<br>🎯 Goals: build a full-stack project, contribute to open source<br>🎲 Fun Fact: I enjoy tinkering with Arduino in my free time</p>
-
+<p align="left">📚 Currently Learning: Python, Javascript,Cybersecurity <br>🎯 Goals: build a full-stack project, contribute to open source<br>
 ###
 
 <h3 align="left">Connect with me!</h3>
