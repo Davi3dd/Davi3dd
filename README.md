@@ -1,72 +1,60 @@
-<h1 align="left">👋 Hi there! I'm Davi Nunes, nice to meet you!</h1>
+# 👋 Hi there! I'm Davi Nunes, nice to meet you!
 
 ###
 
-<p align="left">👋 Hello! I'm Davi Nunes da Encarnação<br>🌍 From Rio de Janeiro, Brazil<br>🎓 Currently a student in Systems Analysis and Development ( Universidade Estácio de Sá)<br>✨ Creating bugs since 2023<br><br>I'm a beginner developer passionate about learning and growing in tech. Right now, I'm focused on improving my skills in Java and expanding my knowledge in areas like cybersecurity and project management.</p>
+<p align="left">
+  👋 Hello! I'm Davi Nunes da Encarnação<br>
+  🌍 From Rio de Janeiro, Brazil<br>
+  🎓 Systems Analysis and Development Student at Universidade Estácio de Sá<br>
+  🚀 Turning coffee into secure and efficient code since 2023<br><br>
+  I'm a junior backend developer passionate about infrastructure, networks, and continuous learning. Right now, I'm focused on mastering <b>Java</b> and expanding my practical knowledge in <b>Linux system administration and cybersecurity</b>.
+</p>
 
 ###
 
-<h2 align="left">About me</h2>
+## 🧠 About me
+
+* 📚 **Currently Learning:** Python, JavaScript, Linux Admin & Cybersec concepts.
+* 🎯 **Goals:** Build robust backend applications, set up secure lab environments, and contribute to open-source projects.
+* ⚡ **Challenge:** Currently committing to the **#100DaysOfCode** challenge to push my coding and infrastructure skills to the next level!
 
 ###
 
-<p align="left">📚 Currently Learning: Python, Javascript,Cybersecurity <br>🎯 Goals: build a full-stack project, contribute to open source<br>
-###
+### 🤝 Connect with me
 
-<h3 align="left">Connect with me!</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/davi-nunes-19993a246/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://criarmeulink.com.br/u/1731167119" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-nunes-19993a246/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1731167119)
 
 ###
 
 <div align="center">
-  <img height="250" src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif"  />
+  <img height="220" src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" alt="Coding GIF" />
 </div>
 
 ###
 
-<h2 align="left">I code with</h2>
-
-###
+## 🛠️ Technologies and Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />&nbsp;
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws logo" />&nbsp;
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />&nbsp;
 </div>
 
 ###
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Davi3dd/Davi3dd/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Davi3dd/Davi3dd/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Davi3dd/Davi3dd/output/github-contribution-grid-snake.svg">
-</picture>
+## 📊 GitHub Stats
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Davi3dd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Davi3dd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="140" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.co/api?username=Davi3dd&show_icons=true&theme=dark&hide_border=true" height="150" alt="Davi's github stats" />
+  <img src="https://github-readme-stats.vercel.co/api/top-langs/?username=Davi3dd&layout=compact&theme=dark&hide_border=true" height="150" alt="Davi's top languages" />
 </div>
 
 ###
