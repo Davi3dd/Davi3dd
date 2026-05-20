@@ -50,11 +50,8 @@
 
 ###
 
-## 📊 GitHub Stats
+## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.co/api?username=Davi3dd&show_icons=true&theme=dark&hide_border=true" height="150" alt="Davi's github stats" />
-  <img src="https://github-readme-stats.vercel.co/api/top-langs/?username=Davi3dd&layout=compact&theme=dark&hide_border=true" height="150" alt="Davi's top languages" />
-</div>
-
-###
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Davi3dd&theme=react-dark&bg_color=121212&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
