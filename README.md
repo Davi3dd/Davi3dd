@@ -6,7 +6,6 @@
   👋 Hello! I'm Davi Nunes da Encarnação<br>
   🌍 From Rio de Janeiro, Brazil<br>
   🎓 Systems Analysis and Development Student at Universidade Estácio de Sá<br>
-  🚀 Turning coffee into secure and efficient code since 2023<br><br>
   I'm a junior backend developer passionate about infrastructure, networks, and continuous learning. Right now, I'm focused on mastering <b>Java</b> and expanding my practical knowledge in <b>Linux system administration and cybersecurity</b>.
 </p>
 
